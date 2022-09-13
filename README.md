@@ -1,4 +1,4 @@
-# CRWN Clothing
+# CRWN Clothing V1
 
 This was a follow along online tutorial.
 
@@ -6,6 +6,7 @@ Tech Stack:
 
 - React
 - React Router
+- React Context
 - Google Auth
 - Firebase
 - Stripe
