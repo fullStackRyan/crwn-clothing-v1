@@ -1,18 +1,20 @@
 # CRWN Clothing V1
 
-This was a follow along online tutorial.
+<p>This is version 1 of the app. This app contains React Context and SCSS, whereas future versions will not. Instead subsequent versions of the app will contain Redux, Styled Components, TypeScript. The most up to date version is: V? </p>
 
-Tech Stack: 
+<p>I have uploaded different versions to show I have knowledge of these various technologies.</p>
+
+<p>This was a follow along online tutorial.</p>
+
+V1 Tech Stack: 
 
 - React
 - React Router
 - React Context
 - Google Auth
 - Firebase
-- Stripe
 - Netlify
 - SCSS
 - Yarn
 
-[Click here to view the app!](https://monsters-rolodexv2.netlify.app/)
-<p>Completed: ???</p>
+Please view the latest version to see the complete and fully working e-commerce app.
